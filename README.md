@@ -1,6 +1,8 @@
 # Cell-Lapse
 Open-source &amp; low-cost onstage incubator
-(Spanish version below)----------------------
+----------------------
+(Spanish version below)
+
 This project deals with the design, development, and implementation of a low-cost onstage incubator (IO) using technologies such as 3D printing and Arduino.
 
 This device, which already exists in the current market, is extremely useful when it comes to observing and analyzing cellular phenomena since it guarantees the appropriate
