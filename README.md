@@ -1,5 +1,10 @@
 # Cell-Lapse
-Open-source &amp; low-cost onstage incubator
+## Open-source &amp; low-cost onstage incubator
+
+
+
+![alt text](https://github.com/miriukaLab/Cell-Lapse/blob/main/Images%20and%20Videos/Op%202.png)
+
 ----------------------
 (Spanish version below)
 
